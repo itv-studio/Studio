@@ -1,2 +1,2 @@
-# NetIPTV.github.io
-互联网IPTV
+# NetIPTV.GitHub.io
+NetIPTV
