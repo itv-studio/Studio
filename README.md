@@ -1,2 +1,2 @@
-# i-ssr.github.io
-网站主页
+# NetIPTV.github.io
+互联网IPTV
